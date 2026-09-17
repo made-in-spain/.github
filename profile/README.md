@@ -9,13 +9,13 @@
 Use your iPhone camera or photo library to scan product barcodes and check whether a product's country of origin is Spain.
 
 <p>
+  <a href="https://apps.apple.com/us/app/made-in-spain/id6812240189"><strong>App Store</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://made-in-spain.pages.dev"><strong>Website</strong></a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/made-in-spain/made-in-spain"><strong>Source code</strong></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/orgs/made-in-spain/repositories"><strong>Repositories</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/made-in-spain/.github/blob/main/CONTRIBUTING.md"><strong>Contributing</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/made-in-spain/.github/blob/main/CODE_OF_CONDUCT.md"><strong>Code of Conduct</strong></a>
 </p>
 
 <img src="https://img.shields.io/badge/platform-iOS%20%26%20iPadOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS and iPadOS" />
@@ -26,15 +26,17 @@ Use your iPhone camera or photo library to scan product barcodes and check wheth
 
 ---
 
-**Made in SPAIN** is a native **SwiftUI** app for iPhone and iPad. Point your camera at a product barcode or pick a photo from your library to see whether the product's origin country is Spain — a quick way to shop with confidence.
+**Made in SPAIN** is a native **SwiftUI** app for iPhone and iPad. Point your camera at a product barcode or pick a photo from your library to see whether the product's origin country is Spain — a quick way to shop with confidence. Your scan history stays on device.
 
 ### Features
 
 | | |
 |---|---|
-| **Barcode scanner** | Scan products with the iPhone camera or choose an image from your photo library |
-| **Origin check** | Detect whether a product's country of origin is Spain |
-| **Simple results** | Clear yes/no feedback so you can decide before you buy |
+| **Barcode scanner** | Scan products with the iPhone camera for an instant origin lookup |
+| **Photo library** | Choose a product image from your library when camera scanning isn't practical |
+| **Origin check** | See right away whether a product's country of origin is Spain |
+| **Scan history** | Review past lookups on your device |
+| **On-device privacy** | No account required — your data stays on your iPhone or iPad |
 
 ---
 
