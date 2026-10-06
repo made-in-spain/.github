@@ -12,15 +12,16 @@ The visitor-facing page at [github.com/made-in-spain](https://github.com/made-in
 
 | Repository | Summary |
 |------------|---------|
-| [**made-in-spain**](https://github.com/made-in-spain/made-in-spain) | iOS app — scan barcodes with the camera or photo library to check whether a product is from Spain |
-| [**.github**](https://github.com/made-in-spain/.github) | Organization meta-repository (profile, governance, and automation) |
+| [**.github**](https://github.com/made-in-spain/.github) | Public organization meta-repository (profile, governance, and automation) |
+
+The Made in SPAIN application is developed in a **private** repository. The public org page is [github.com/made-in-spain](https://github.com/made-in-spain).
 
 ## Automation
 
 | Path | Role |
 |------|------|
 | `.github/dependabot.yml` | Dependency update PRs |
-| `.github/CODEOWNERS` | Review ownership (`@xarlizard`) |
+| `.github/CODEOWNERS` | Review ownership (`@charlite`) |
 | `.github/ISSUE_TEMPLATE/` | Bug reports, feature requests, and documentation issues |
 | `.github/pull_request_template.md` | Pull request checklist |
 

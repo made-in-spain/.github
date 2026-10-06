@@ -12,7 +12,7 @@ The GitHub **public organization meta-repository** (`.github`) for [@made-in-spa
 | `README.md` | Meta-repo overview for maintainers |
 | `.github/` | Dependabot, CODEOWNERS, issue templates, and workflows |
 
-The main app lives in [**made-in-spain/made-in-spain**](https://github.com/made-in-spain/made-in-spain) — a SwiftUI iOS app that scans product barcodes with the camera or photo library to check whether a product's origin country is Spain.
+The Made in SPAIN app is developed in a **private** repository. Do not link to application source from the public org profile or marketing site — use [github.com/made-in-spain](https://github.com/made-in-spain) only.
 
 ---
 
@@ -34,7 +34,7 @@ Keep the public profile focused on visitor-facing information — no secrets or 
 |-------|------|
 | `.github/dependabot.yml` | Dependency update PRs |
 | `.github/workflows/dependabot-signature.yml` | `Co-authored-by` on Dependabot commits |
-| `.github/CODEOWNERS` | Review ownership (`@xarlizard`) |
+| `.github/CODEOWNERS` | Review ownership (`@charlite`) |
 
 Details: [docs/README.md](docs/README.md) · [specs/features/04-github-automation.md](specs/features/04-github-automation.md).
 

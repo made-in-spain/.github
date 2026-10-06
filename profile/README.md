@@ -1,32 +1,20 @@
+<img src="https://raw.githubusercontent.com/made-in-spain/.github/main/.github/icon-cropped.png" width="200" alt="Made in SPAIN app icon" align="left"/>
+
+<div>
+<h3>Made in SPAIN</h3>
+<p><strong>Made in SPAIN</strong> is a native <strong>SwiftUI</strong> iOS app that scans product barcodes with your iPhone camera or photo library and checks whether a product's country of origin is Spain.</p>
+<a href="https://apps.apple.com/us/app/made-in-spain/id6812240189"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" width="175" alt="Download on the App Store"/></a>
+</div>
+
+<br/><br/>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/made-in-spain/.github/main/.github/icon-cropped.png" alt="Made in SPAIN app icon" width="128" />
-
-# Made in SPAIN
-
-**Scan products. Know if they're from Spain.**
-
-Use your iPhone camera or photo library to scan product barcodes and check whether a product's country of origin is Spain.
-
-<p>
-  <a href="https://apps.apple.com/us/app/made-in-spain/id6812240189"><strong>App Store</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://made-in-spain.pages.dev"><strong>Website</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/made-in-spain/made-in-spain"><strong>Source code</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/orgs/made-in-spain/repositories"><strong>Repositories</strong></a>
-</p>
-
-<img src="https://img.shields.io/badge/platform-iOS%20%26%20iPadOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS and iPadOS" />
-<img src="https://img.shields.io/badge/SwiftUI-native-FA7343?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-<img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" />
+<img src="https://raw.githubusercontent.com/made-in-spain/.github/main/.github/screenshot.png" width="824" alt="Made in SPAIN app screenshot" style="border-radius: 5px;"/><br/>
 
 </div>
 
----
-
-**Made in SPAIN** is a native **SwiftUI** app for iPhone and iPad. Point your camera at a product barcode or pick a photo from your library to see whether the product's origin country is Spain — a quick way to shop with confidence. Your scan history stays on device.
+<hr>
 
 ### Features
 
@@ -38,14 +26,23 @@ Use your iPhone camera or photo library to scan product barcodes and check wheth
 | **Scan history** | Review past lookups on your device |
 | **On-device privacy** | No account required — your data stays on your iPhone or iPad |
 
+<p>
+  <a href="https://made-in-spain.pages.dev"><strong>Website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/made-in-spain"><strong>GitHub</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/made-in-spain/.github"><strong>Organization</strong></a>
+</p>
+
 ---
 
-### Repositories
+### Public repositories
 
 | Repository | Summary |
 |------------|---------|
-| [**made-in-spain**](https://github.com/made-in-spain/made-in-spain) | Open source SwiftUI iOS app — scan barcodes to check if a product is from Spain |
-| [**.github**](https://github.com/made-in-spain/.github) | Organization meta-repository (this profile, governance, and automation) |
+| [**.github**](https://github.com/made-in-spain/.github) | Organization profile, governance, and automation (this page) |
+
+Application source is maintained in a **private** repository and is not linked here.
 
 > This page is rendered from **`profile/README.md`** in the [`.github`](https://github.com/made-in-spain/.github) repository — the public face of [github.com/made-in-spain](https://github.com/made-in-spain).
 
@@ -54,7 +51,7 @@ Use your iPhone camera or photo library to scan product barcodes and check wheth
 <div align="center">
 
 <sub>
-MIT · Maintained by <a href="https://github.com/xarlizard">@xarlizard</a>
+Maintained by <a href="https://github.com/charlite">@charlite</a>
 </sub>
 
 </div>
