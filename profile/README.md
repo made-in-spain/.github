@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/made-in-spain/.github/main/.github/icon-cropped.png" width="200" alt="Made in SPAIN app icon" align="left"/>
+<img src="../.github/icon-cropped.png" width="200" alt="Made in SPAIN app icon" align="left"/>
 
 <div>
 <h3>Made in SPAIN</h3>
@@ -10,7 +10,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/made-in-spain/.github/main/.github/screenshot.png" width="824" alt="Made in SPAIN app screenshot" style="border-radius: 5px;"/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../.github/screenshot_dark.png"/>
+  <source media="(prefers-color-scheme: light)" srcset="../.github/screenshot.png"/>
+  <img src="../.github/screenshot.png" width="824" alt="Made in SPAIN app screenshot" style="border-radius: 5px;"/>
+</picture><br/>
 
 </div>
 
